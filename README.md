@@ -34,8 +34,8 @@ El desenvolupament es divideix en **sprints** seguint la metodologia **SCRUM**:
 - 🔗 [Repositori GitHub](https://github.com/jarandadev/ES23UAB411-YY)
 
 ## 👥 Equip de Desenvolupament
-- 🏆 **Joan Aranda 1704682** - SCRUM Master 
-- 🏆 **Pierre Kallai 170XXXX**
+- 🏆 **Pierre Kallai 1708833** - SCRUM Master
+- 🏆 **Joan Aranda 1704682**  
 - 🏆 **Joaquim Alaña 1704730**
 - 🏆 **Alejandro Reis 1702651**
 
